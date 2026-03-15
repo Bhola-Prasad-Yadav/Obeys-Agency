@@ -3,7 +3,7 @@
 A modern, responsive web design inspired by creative agencies.  
 
 ## 🔗 Live Demo
-[Click here to view](https://dharmendra4522.github.io/obys-agency/)
+[Click here to view](https://github.com/Bhola-Prasad-Yadav/Obeys-Agency)
 
 ## 📌 Features
 - Smooth animations and transitions  
