@@ -16,4 +16,4 @@ A modern, responsive web design inspired by creative agencies.
 - **Deployment:** GitHub Pages  
 
 ## 👤 Author
-Developed by [Dharmendra Vishwakarma](https://github.com/dharmendra4522)  
+Developed by [Bhola Prasad Yadav](https://github.com/dharmendra4522)  
