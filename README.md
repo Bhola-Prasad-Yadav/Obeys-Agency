@@ -3,7 +3,7 @@
 A modern, responsive web design inspired by creative agencies.  
 
 ## 🔗 Live Demo
-[Click here to view](https://github.com/Bhola-Prasad-Yadav/Obeys-Agency)
+[Click here to view](https://bhola-prasad-yadav.github.io/Obeys-Agency/)
 
 ## 📌 Features
 - Smooth animations and transitions  
